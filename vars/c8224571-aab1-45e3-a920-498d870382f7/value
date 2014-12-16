@@ -1,1 +1,1 @@
-isCardSelected || (curSelCard == cardToCheck)
+isCardAvail || (curAvailCard == cardToCheck)
