@@ -1,1 +1,1 @@
-isAI && (enemyCardCount >= 5) && (actionCode == 0)
+isAI && (playerCardCount > 0) && (enemyCardCount >= 5) && (actionCode == 0)

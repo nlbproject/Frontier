@@ -1,0 +1,1 @@
+isAI && (playerCardCount == 0) && (actionCode == 0)
