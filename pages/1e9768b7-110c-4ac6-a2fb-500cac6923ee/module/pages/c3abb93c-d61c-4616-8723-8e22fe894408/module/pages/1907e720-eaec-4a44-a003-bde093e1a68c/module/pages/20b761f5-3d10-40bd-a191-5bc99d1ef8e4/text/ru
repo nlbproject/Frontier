@@ -1,0 +1,6 @@
+playerFocus $playerFocus$
+playerStrike $playerStrike$
+playerBlocked $playerBlocked$
+enemyFocus $enemyFocus$
+enemyStrike  $enemyStrike$
+enemyBlocked $enemyBlocked$
