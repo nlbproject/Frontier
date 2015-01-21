@@ -1,0 +1,7 @@
+^Ваше оборудование:
+Боевой Сканер: $hasBattleScannerS$
+Торговый Сканер: $hasCargoScannerS$
+Сканер разведки: $hasRadarS$
+Зенитные системы: $hasTurretsS$
+Энергетические щиты: $hasShieldsS$
+Лаборатория: $hasLaboratoryS$
