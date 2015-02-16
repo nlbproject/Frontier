@@ -1,1 +1,1 @@
-selCardsSize > 0
+(selCardsSize > 0) || seeDeckEditHint
