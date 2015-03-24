@@ -1,1 +1,1 @@
-enemyCardCount > 2
+(enemyCardCount > 2) && (mytimer > 5)

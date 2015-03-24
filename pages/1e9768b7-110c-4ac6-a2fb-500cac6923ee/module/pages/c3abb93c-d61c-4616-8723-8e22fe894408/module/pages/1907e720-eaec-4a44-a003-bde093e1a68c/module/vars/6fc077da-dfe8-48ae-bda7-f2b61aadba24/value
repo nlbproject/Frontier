@@ -1,1 +1,1 @@
-(playerCardCount <= 2) && (playerCardCount > 0)
+(playerCardCount <= 2) && (playerCardCount > 0) && (mytimer > 5)
