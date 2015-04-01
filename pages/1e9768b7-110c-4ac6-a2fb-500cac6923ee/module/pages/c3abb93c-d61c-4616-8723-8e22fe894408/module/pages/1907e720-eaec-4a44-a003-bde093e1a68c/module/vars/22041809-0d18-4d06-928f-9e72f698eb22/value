@@ -1,1 +1,1 @@
-(enemyCardCount <= 2) && (enemyCardCount > 0) && (mytimer > 5)
+(enemyCardCount <= 2) && (enemyCardCount > 0)
