@@ -1,1 +1,1 @@
-(playerCardCount > 2) && (mytimer > 5) || firstPhase
+(playerCardCount > 2) && ((mytimer > 5) || firstPhase)

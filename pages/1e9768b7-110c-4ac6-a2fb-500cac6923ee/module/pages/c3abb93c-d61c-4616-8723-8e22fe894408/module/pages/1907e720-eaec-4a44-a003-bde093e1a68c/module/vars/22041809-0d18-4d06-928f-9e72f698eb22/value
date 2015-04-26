@@ -1,1 +1,1 @@
-(enemyCardCount <= 2) && (enemyCardCount > 0) || firstPhase
+(enemyCardCount <= 2) && ((enemyCardCount > 0) || firstPhase)
