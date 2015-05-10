@@ -1,1 +1,1 @@
-playerHandVisible && (playerCardCount > 0)
+playerHandVisible
