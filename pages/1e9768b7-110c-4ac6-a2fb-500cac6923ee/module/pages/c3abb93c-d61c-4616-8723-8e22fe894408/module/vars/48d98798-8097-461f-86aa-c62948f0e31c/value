@@ -1,1 +1,1 @@
-nextRoundFlag && (playerHP > 0) && (enemyHP > 0)
+roundFinished && (playerHP > 0) && (enemyHP > 0)

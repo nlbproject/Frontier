@@ -1,1 +1,0 @@
-roundFinished && (playerHP > 0) && (enemyHP > 0)
