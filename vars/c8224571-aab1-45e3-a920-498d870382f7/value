@@ -1,1 +1,1 @@
-isCardAvail || (curAvailCard == cardToCheck)
+isCardAvail || (curAvailCardId == cardToCheckId)
