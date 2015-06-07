@@ -1,1 +1,1 @@
-fame < 15 || replacement
+(fame < 15 || replacement) && !slavery && !prison
