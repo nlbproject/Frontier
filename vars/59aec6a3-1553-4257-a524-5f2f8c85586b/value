@@ -1,1 +1,1 @@
-isFight
+isFight && !fleetFightLatch
