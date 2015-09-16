@@ -1,1 +1,1 @@
-(isAI) && (mytimer > 5)
+(isAI) && (mytimer > 15)
