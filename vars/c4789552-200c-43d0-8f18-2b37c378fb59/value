@@ -1,1 +1,0 @@
-(fightResult < 0) || (fightResult >= 2)
