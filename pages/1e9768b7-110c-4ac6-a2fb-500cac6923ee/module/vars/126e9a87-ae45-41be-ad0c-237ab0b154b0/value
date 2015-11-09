@@ -1,1 +1,1 @@
-actionReady && (cardCount < 5)
+actionReady && (cardCount < 5) && !isPass
