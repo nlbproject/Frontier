@@ -1,1 +1,1 @@
-quest_menu
+quest_menu || ((fame > 1) && (!f2_shown)) || ((fame > 3) && (!f4_shown))
