@@ -1,1 +1,1 @@
-rage > 3
+((enemyRage > maxPlayerCards - playerCardCount) && (enemyCardCount > 0)) || (enemyCardCount >= maxEnemyCards)
