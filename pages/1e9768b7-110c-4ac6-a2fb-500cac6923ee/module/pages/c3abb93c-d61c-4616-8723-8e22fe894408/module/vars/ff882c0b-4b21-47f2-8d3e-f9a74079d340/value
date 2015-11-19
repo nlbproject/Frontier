@@ -1,1 +1,1 @@
-(playerCardCount > 3) || (enemyHP <= 25) || (playerHP <= 15)
+(playerCardCount > 3) || (playerHP <= 15)
