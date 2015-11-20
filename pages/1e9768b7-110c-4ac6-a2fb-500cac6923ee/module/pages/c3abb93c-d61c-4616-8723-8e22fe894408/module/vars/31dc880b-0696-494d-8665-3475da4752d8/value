@@ -1,1 +1,1 @@
-((enemyRage > maxPlayerCards - playerCardCount) && (enemyCardCount > 0)) || (enemyCardCount >= maxEnemyCards)
+((enemyRage > maxPlayerCards - playerCardCount) && (enemyCardCount > 0)) || ((enemyRage > maxEnemyCards - enemyCardCount) && (enemyCardCount > 0)) || (enemyCardCount >= maxEnemyCards)
