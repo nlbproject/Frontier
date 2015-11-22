@@ -1,1 +1,1 @@
-actionReady && (cardCount < maxPlayerCards) && !isPass
+actionReady && (cardCount < maxCardsCur) && !isPass
