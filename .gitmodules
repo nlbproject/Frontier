@@ -1,0 +1,9 @@
+[submodule "modules/waspsnest"]
+	path = modules/waspsnest
+	url = https://github.com/nlbproject/waspsnest.git
+[submodule "modules/sabotage"]
+	path = modules/sabotage
+	url = https://github.com/nlbproject/sabotage.git
+[submodule "modules/frontierwarriors"]
+	path = modules/frontierwarriors
+	url = https://github.com/nlbproject/frontierwarriors.git
